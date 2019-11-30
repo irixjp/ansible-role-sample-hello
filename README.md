@@ -1,7 +1,7 @@
-This role is a sample of ansible role.
+This role is a sample of ansible.
 Please use this a training, hands-on and etc.
 
-Usage
+Usage:
 
 ```yaml
 - import_role:
