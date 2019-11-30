@@ -1,0 +1,4 @@
+---
+- name: say hello!
+  debug:
+    msg: {{ HELLO_WORDS[ansible_env.LANG] | default("Hello") }}
